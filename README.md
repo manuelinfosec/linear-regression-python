@@ -76,4 +76,4 @@ def predict(self, X) -> np.ndarray:
     return np.dot(X, self.weights) + self.bias
 ```
 
-Linear Regression implemented from scratch. If this helped, star the repository or reach out to me on [X/Twitter](https://twitter.com/manuelinfosec/).
+Linear Regression implemented from scratch. If this helped, star the repository or reach out to me on [X/Twitter](https://twitter.com/manuelinfosec).
